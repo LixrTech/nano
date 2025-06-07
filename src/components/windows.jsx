@@ -23,14 +23,14 @@ const Windows = function () {
                 class:hidden={use(this.currentHasURL)}
             >
                 <h1 class="text-center text-Blue text-4xl font-bold select-none">
-                    nano.
+                    Anon.
                 </h1>
                 <p class="text-center mt-1 select-none">
                     Browse the internet securely and privately.
                 </p>
                 <div class="text-Subtext0 absolute right-0 left-0 bottom-4 flex justify-center gap-2">
-                    <a href="https://github.com/titaniumnetwork-dev/nano">
-                        GitHub
+                    <a href="https://lixr.tech">
+                        Website
                     </a>
                     <span>/</span>
                     <a href="/privacy">Privacy Policy</a>

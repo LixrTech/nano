@@ -1,11 +1,12 @@
 {
-    "name": "nano",
+    "name": "anon",
     "description": "A minimalist web proxy built to be simple yet powerful.",
     "contributors": [
         "Leaflet",
         "Nebelung"
     ],
     "version": "1.0.0",
+    
     "license": "AGPL-3.0-only",
     "type": "module",
     "scripts": {
@@ -35,5 +36,13 @@
     },
     "engines": {
         "node": ">=20.11.0"
+    },
+    "pnpm": {
+        "onlyBuiltDependencies": [
+            "bufferutil",
+            "dreamland-router",
+            "esbuild",
+            "sqlite3"
+        ]
     }
 }

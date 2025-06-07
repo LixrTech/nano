@@ -32,5 +32,5 @@ app.use((req, res) => {
 });
 
 listen(port, () => {
-    console.log(`nano is listening on port ${port}`);
+    console.log(`anon is listening on port ${port}`);
 });
