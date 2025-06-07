@@ -6,7 +6,7 @@
         "Nebelung"
     ],
     "version": "1.0.0",
-    
+    "packageManager": "pnpm@10.6.4",
     "license": "AGPL-3.0-only",
     "type": "module",
     "scripts": {
